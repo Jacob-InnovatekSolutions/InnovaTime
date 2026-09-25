@@ -4,6 +4,12 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.8.1 — 2026-09-25
+- Client Reports: Mark Billed (single or bulk) and Unmark keep you on the same
+  tab instead of jumping to Billed/Unbilled
+- Buttons that refresh the page (Mark Billed, Hold, …) keep your scroll
+  position, and the client search text is kept
+
 ## v1.8.0 — 2026-09-25
 - Client Detail Report: checkboxes on outstanding entries
   - Print with entries ticked prints just those entries, with totals for them
