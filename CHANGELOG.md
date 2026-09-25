@@ -4,6 +4,12 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.8.0 — 2026-09-25
+- Client Detail Report: checkboxes on outstanding entries
+  - Print with entries ticked prints just those entries, with totals for them
+  - With 2 or more ticked, Mark Billed, Hold and Unhold buttons appear next to
+    Print to act on all ticked entries at once
+
 ## v1.7.0 — 2026-09-25
 - Client Reports: search box to filter clients by code or name as you type
   (Esc clears it); the select-all checkbox only picks the clients shown
