@@ -4,6 +4,10 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.6.0 — 2026-09-25
+- Client Reports: when 2 or more unbilled clients are checked, a Mark Billed
+  button appears next to Print to mark them all billed at once
+
 ## v1.5.0 — 2026-09-24
 - Print Slip: Delete button next to Edit (users delete their own time, admins anyone's)
 - Animations throughout: page entrances, gliding nav highlight and tab underline,
