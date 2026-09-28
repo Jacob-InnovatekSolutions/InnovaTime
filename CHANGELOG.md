@@ -4,6 +4,15 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.9.0 — 2026-09-28
+- Client Detail Report: Download PDF button next to Print
+  - The PDF shows the CON hours used, then each outstanding entry's Date,
+    Employee, Activity, Hours and Notes, in the same order as the report
+  - Named client + month + year, e.g. AJ Door for September 2026 downloads
+    as AJDoor092026.pdf
+  - With entries ticked, the PDF holds just those (like Print)
+  - Built into the app — nothing new to install on the server
+
 ## v1.8.1 — 2026-09-25
 - Client Reports: Mark Billed (single or bulk) and Unmark keep you on the same
   tab instead of jumping to Billed/Unbilled
