@@ -4,6 +4,10 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.9.1 — 2026-09-28
+- User Reports: each person's totals line now shows Non-Chargeable Hours next
+  to Chargeable Hours
+
 ## v1.9.0 — 2026-09-28
 - Client Detail Report: Download PDF button next to Print
   - The PDF shows the CON hours used, then each outstanding entry's Date,
