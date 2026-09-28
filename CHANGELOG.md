@@ -4,6 +4,14 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.9.2 — 2026-09-28
+- Client Detail PDF: redesigned in InnovaTek's colors
+  - InnovaTek logo at the top, with blue-and-green accents to match it
+  - The client's code is no longer shown — just their name
+  - CON Hours Used stands out in its own box, and the table has a blue
+    header row with alternating row shading
+  - Later pages repeat a smaller logo and the column headings
+
 ## v1.9.1 — 2026-09-28
 - User Reports: each person's totals line now shows Non-Chargeable Hours next
   to Chargeable Hours
