@@ -4,6 +4,19 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.10.0 — 2026-10-01
+- Client Reports: non-chargeable time (Non-Billable, Drive Time, … — any
+  activity marked Chargeable: NO) no longer shows on client reports or counts
+  toward a client's unbilled hours and dollars. Parts always show.
+  - Applies to the Client Detail Report, Print, Download PDF, the
+    multi-client print and the Client Reports totals
+- Client Detail Report, Print and PDF:
+  - Parts are listed at the bottom; everything else stays in date order
+  - Dates read month/day/year, e.g. 09/22/2026
+  - The Client box shows the client's name first, with the code underneath
+- Admin → Users: new Edit button to change a user's name, code or username
+  (e.g. Andrew Towers' code to ATT). Their past entries show the new code.
+
 ## v1.9.2 — 2026-09-28
 - Client Detail PDF: redesigned in InnovaTek's colors
   - InnovaTek logo at the top, with blue-and-green accents to match it
