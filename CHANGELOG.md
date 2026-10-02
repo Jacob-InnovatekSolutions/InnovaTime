@@ -4,6 +4,11 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.11.0 — 2026-10-02
+- Client Reports: the title row with the Mark Billed, Print and Back buttons
+  now stays pinned at the top of the screen as you scroll down the client
+  list
+
 ## v1.10.0 — 2026-10-01
 - Client Reports: non-chargeable time (Non-Billable, Drive Time, … — any
   activity marked Chargeable: NO) no longer shows on client reports or counts
