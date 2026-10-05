@@ -4,6 +4,20 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.12.0 — 2026-10-05
+- Client Reports: the Month and Year boxes are replaced by From Date and
+  To Date (like User Reports), so you can pick any range of days. It starts
+  on the 1st of this month through today.
+  - Unbilled and Billed show only entries dated within the range. Unbilled
+    work from before the From date no longer carries forward on its own,
+    so set the From date back to catch anything older.
+  - Mark Billed and Unmark apply only to that client's entries within the
+    range
+  - The Client Detail Report, Print, multi-client print and Download PDF
+    use the same From/To dates. A whole month still reads "October 2026"
+    (and the PDF is still named e.g. AJDoor102026.pdf); any other range
+    shows both dates, e.g. 10/01/2026 – 10/15/2026
+
 ## v1.11.0 — 2026-10-02
 - Client Reports: the title row with the Mark Billed, Print and Back buttons
   now stays pinned at the top of the screen as you scroll down the client
