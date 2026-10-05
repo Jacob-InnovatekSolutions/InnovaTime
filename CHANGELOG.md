@@ -4,6 +4,15 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.12.1 — 2026-10-05
+- Client Detail Report, Print, multi-client print and Download PDF: the CON
+  Hours box now totals the CON entries actually listed on the report. It
+  used to count only CON time that wasn't held, so held entries (and, before
+  v1.12.0, outstanding entries carried over from earlier months) showed
+  0.00 even with CON work on the page.
+  - Printing or downloading the PDF with entries ticked shows the CON hours
+    of just those entries
+
 ## v1.12.0 — 2026-10-05
 - Client Reports: the Month and Year boxes are replaced by From Date and
   To Date (like User Reports), so you can pick any range of days. It starts
