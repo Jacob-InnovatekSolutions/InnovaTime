@@ -4,6 +4,16 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.13.0 — 2026-10-05
+- Client Detail Report, Print and multi-client print: the Outstanding and
+  Billed tables now show Labor (hours and $) and Parts ($) subtotals just
+  above the TOTAL row
+  - Printing with entries ticked recalculates the subtotals for just those
+    entries
+- Fixed: v1.12.1 accidentally put back an older copy of the Client Detail
+  Report page (Month/Year links, Mark Billed using month/year, dates not in
+  month/day/year). The v1.12.0 From/To version is restored.
+
 ## v1.12.1 — 2026-10-05
 - Client Detail Report, Print, multi-client print and Download PDF: the CON
   Hours box now shows all CON hours used for that client in the From/To
