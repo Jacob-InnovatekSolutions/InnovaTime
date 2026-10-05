@@ -6,8 +6,9 @@ v1.2.1; 1.5.0 is the first release to show its own number.
 
 ## v1.13.0 — 2026-10-05
 - Client Detail Report, Print and multi-client print: the TOTAL line of the
-  Outstanding and Billed tables now shows Labor $ and Parts $ subtotals to
-  the left of TOTAL, e.g. LABOR $262.50  PARTS $149.00  TOTAL 1.75 $411.50
+  Outstanding and Billed tables now shows Labor (hours and $) and Parts ($)
+  subtotals to the left of TOTAL, e.g.
+  LABOR 1.75 hrs $262.50   PARTS $149.00   TOTAL 1.75 $411.50
   - Printing with entries ticked recalculates the subtotals for just those
     entries
 - Fixed: v1.12.1 accidentally put back an older copy of the Client Detail
