@@ -4,6 +4,24 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
+## v1.14.0 — 2026-10-05
+- New look ("Studio Light") across every page, with the new InnovaTime logo
+  - The menu moves to a sidebar on the left, with an icon for each page
+  - Brighter cards, bigger page titles and blue-to-green totals
+  - On tablets and phones the sidebar becomes a bar across the top
+  - Printouts and PDFs are unchanged
+- New Settings button (gear) at the bottom of the sidebar, next to Log out
+  - Appearance: Light, Dark, or Auto (follows the computer's setting)
+  - Finding clients when entering time: Default (as before) or Codes —
+    codes come first, so typing USI + Tab picks Upword Solutions (USI)
+    instead of a client whose name contains "usi". Clients that only match
+    by name are listed below under "Also matches by name". Applies to New
+    Entry and Edit Entry.
+  - Settings are saved to each person's login, so they stick every time
+    they log in, on any computer. Everyone starts on Light + Default.
+  - The database gets two new settings columns automatically the first
+    time the updated app starts — nothing to do by hand
+
 ## v1.13.0 — 2026-10-05
 - Client Detail Report, Print and multi-client print: the TOTAL line of the
   Outstanding and Billed tables now shows Labor (hours and $) and Parts ($)

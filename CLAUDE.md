@@ -17,7 +17,8 @@ inside `InnovaTime 6-22-26.zip` — there are no loose source files in the repo.
 ## Versioning — bump with every change
 
 The version shows in the nav bar and is hardcoded in exactly one place:
-`templates/layout.html` (the `<span>` after `INNOVA<span>TIME</span>`).
+`templates/layout.html` (the `<span class="brand-ver">` under the logo in the
+sidebar).
 
 Every change merged to `main` must bump it (semantic versioning, MAJOR.MINOR.PATCH):
 
