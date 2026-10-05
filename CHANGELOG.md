@@ -4,7 +4,7 @@ The version appears in InnovaTime's nav bar. Versions 1.3.0 and 1.4.0 were
 assigned afterwards to group the changes made while the label still read
 v1.2.1; 1.5.0 is the first release to show its own number.
 
-## v1.14.0 — 2026-10-05
+## v2.0.0 — 2026-10-05
 - New look ("Studio Light") across every page, with the new InnovaTime logo
   - The menu moves to a sidebar on the left, with an icon for each page
   - Brighter cards, bigger page titles and blue-to-green totals
